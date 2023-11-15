@@ -1,7 +1,11 @@
 # Taller 6
 ## Representación gráfica y diseño de la solución de problemas con miniespecificacioes aplicando estructuras condicionales y repetitivas (ciclo mientras)
 
-* Resolver las siguientes problemáticas; generar miniespecificación y diagrama de flujo, sirviendose de los ejemplos colocados en la carpeta {Ejemplos}
+* Leer detenidamente cada problemática propuesta.
+* Plantear el esquema de forma general / breve = ANÁLISIS.
+* Diseñar la solución formal en pseudocódigo (use algoritmos y/o PSeInt opcionalmente). Considere las reglas para su representación: Indentación, bloques de definición de variables/dominios y de control (entrada, proceso, salida), etc. 
+* Diseñar la solución en flujograma (use opcionalmente PSeInt, DiaUML, otros).
+* Realice y evidencie la prueba de escritorio, que confirme la funcionalidad/resultados correctos de su solución (puede usar papel, excel, word, etc.).
 
 ***
 
