@@ -1,16 +1,16 @@
-# Taller 6
-## Representación gráfica y diseño de la solución de problemas con miniespecificacioes aplicando estructuras condicionales y repetitivas (ciclo mientras)
+# Taller07 - Grupal
+
+## Construcción de programas usando estructuras repetitivas WHILE y DO-WHILE
 
 * Leer detenidamente cada problemática propuesta.
-* Plantear el esquema de forma general / breve = ANÁLISIS.
-* Diseñar la solución formal en pseudocódigo (use algoritmos y/o PSeInt opcionalmente). Considere las reglas para su representación: Indentación, bloques de definición de variables/dominios y de control (entrada, proceso, salida), etc. 
-* Diseñar la solución en flujograma (use opcionalmente PSeInt, DiaUML, otros).
-* Realice y evidencie la prueba de escritorio, que confirme la funcionalidad/resultados correctos de su solución (puede usar papel, excel, word, etc.).
+* Programa/codifíque con el lenguaje de alto nivel Java (IDE NetBeans), sus soluciones a cada uno de los problemas listados a continuación. 
+* Para cada programa, genere una clase independiente pero dentro de un solo/único proyecto Java App. No olvide titular a cada clase, con el nombre representativo de la solución y con el número del problema de este listado. 
+* Verificar que sus soluciones son correctas con las técnicas de compilación, ejecución y depurado de programas.
 
 ***
 
 ### Problema 1
-> Realizar una miniespecificación que permita presentar en pantalla la siguiente secuencia:
+> Realizar un programa Java que permita presentar en pantalla la siguiente secuencia:
 
 ```
 	1/10
@@ -24,7 +24,7 @@
 ---
 
 ### Problema 2
-> Realizar una miniespecificación que permita presentar en pantalla la siguiente secuencia:
+> Realizar un programa Java que permita presentar en pantalla la siguiente secuencia:
 
 ```
 	5/10
@@ -38,7 +38,7 @@
 ---
 
 ### Problema 3
-> Realizar una miniespecificación que permita pedir por teclado el nombre de 5 empleados. Por cada empleado se debe solicitar el nombre, numero de días trabajados y costo del día trabajo. Calcular el valor a cancelar por la empresa para cada empleado. **Presentar un reporte como el siguiente:**
+> Realizar un programa Java que permita pedir por teclado el nombre de 5 empleados. Por cada empleado se debe solicitar el nombre, numero de días trabajados y costo del día trabajo. Calcular el valor a cancelar por la empresa para cada empleado. **Presentar un reporte como el siguiente:**
 
 |  | | | |
 | --- | --- | ----- | --- |
@@ -74,7 +74,7 @@ Promedio de estaturas: 1.87
 ---
 
 ### Problema 5
-> Generar una miniespecificación que permita ingresar 4 estudiantes; por cada uno de ellos ingresar el nombre del estudiante, el promedio de ciclo. Presentar el siguiente reporte
+> Generar un programa Java que permita ingresar 4 estudiantes; por cada uno de ellos ingresar el nombre del estudiante, el promedio de ciclo. Presentar el siguiente reporte
 
 |  | | |
 | --- | --- | ----- |
@@ -104,5 +104,5 @@ Cliente tipo 1, compra computadora con precio $100
 ### Problema 7
 > Generar  e imprimir la siguiente serie:
 ```
--1/1+1/2-1/3+1/4-1/5+1/6-1/7+1/8-1/9+1/10
+sumatoria = -1/1+1/2-1/3+1/4-1/5+1/6-1/7+1/8-1/9+1/10
 ```
