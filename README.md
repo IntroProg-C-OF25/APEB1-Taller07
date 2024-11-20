@@ -1,4 +1,4 @@
-# Taller07 - Grupal
+# Taller07
 
 ## Construcción de programas usando estructuras repetitivas WHILE y DO-WHILE
 
@@ -6,6 +6,8 @@
 * Programa/codifíque con el lenguaje de alto nivel Java (IDE NetBeans), sus soluciones a cada uno de los problemas listados a continuación. 
 * Para cada programa, genere una clase independiente pero dentro de un solo/único proyecto Java App. No olvide titular a cada clase, con el nombre representativo de la solución y con el número del problema de este listado. 
 * Verificar que sus soluciones son correctas con las técnicas de compilación, ejecución y depurado de programas.
+* Al final como parte de la codificación (en comentario /*** ), copiar y pegar los resultados obtenidos de la consola, evidenciando el funcionamiento de su solución. 
+
 
 ***
 
